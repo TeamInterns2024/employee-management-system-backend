@@ -130,4 +130,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 src/.env
-node_modules
+node_modules/
